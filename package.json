@@ -1,0 +1,23 @@
+{
+  "name": "vers-novo",
+  "version": "0.0.1",
+  "description": "Teste de versionamento",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruangerald/versionamento2.git"
+  },
+  "keywords": [
+    "node.JS",
+    "JavaScript"
+  ],
+  "author": "Ruan Geraldo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ruangerald/versionamento2/issues"
+  },
+  "homepage": "https://github.com/ruangerald/versionamento2#readme"
+}
